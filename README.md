@@ -4,3 +4,4 @@
 3. El programa se ejecuta con python run-main.py
 4. ultimo paso 
 5. bye
+6. Información agregada desde git-hub 
