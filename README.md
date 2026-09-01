@@ -6,3 +6,4 @@
 5. bye
 6. Información agregada desde git-hub 
 7. Trabajando con git + github
+8. Trabajando con github automatizado
